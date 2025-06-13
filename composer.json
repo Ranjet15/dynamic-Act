@@ -1,0 +1,17 @@
+{
+    "name": "ranjet/php-demo",
+    "description": "PHP demo project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ranjet"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.24",
+        "cocur/slugify": "^4.6",
+        "ramsey/uuid": "^4.8"
+    }
+}
