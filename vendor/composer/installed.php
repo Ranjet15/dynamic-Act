@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'ranjet/php-demo',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'b82cf3fa94cf0e7adcbadf6090b5bcb77f918ba1',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -65,9 +65,9 @@
             'dev_requirement' => false,
         ),
         'ranjet/php-demo' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'b82cf3fa94cf0e7adcbadf6090b5bcb77f918ba1',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
